@@ -39,10 +39,4 @@ public class LeituraDadosTeclado {
 		System.out.println(" Tem animal de estimação? " + temPet);
 	
 	}
-	
-	
-	
-	
-	
-
 }
